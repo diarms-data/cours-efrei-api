@@ -1,3 +1,4 @@
+import { describe, test, expect } from 'eslint';
 import { Divide } from "./divide";
 
 describe('testing divide function', () => {

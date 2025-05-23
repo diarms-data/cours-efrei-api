@@ -1,3 +1,5 @@
+import { describe, test, expect } from 'eslint';
+
 import { Sum } from "./sum";
 
 describe('sum functions', () => {
